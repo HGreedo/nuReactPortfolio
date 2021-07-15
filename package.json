@@ -1,8 +1,11 @@
 {
   "name": "hreed-portfolio",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://github.com/HGreedo/nuReactPortfolio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HGreedo/EmployeeDirectory.git"
+  },
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
