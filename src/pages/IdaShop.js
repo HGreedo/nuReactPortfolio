@@ -3,7 +3,6 @@ import ('./idashop.css')
 
 const IdaShop = () => (
     <div className="idashop-header">
-            <h1>Here is where I will talk about Ida Andersson shop experience</h1>
             <h3 className="shop-link"> 
                 <a href="https://www.idaanderssonshop.com/">Click Here to Check Out Ida Andersson Shop</a>
             </h3>
