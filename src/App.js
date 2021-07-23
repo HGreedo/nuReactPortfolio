@@ -13,23 +13,23 @@ function App() {
     <Router> 
       <Nav />
       <Switch>
-        <Route to="/">
+        <Route exact path={["/"]}>
           <Home />
         </Route>
 
-          <Route to="/About-Me">
+          <Route exact path={["/pages/About-Me"]}>
             <About/>
           </Route>
 
-          <Route to="/IdaAnderssonShop">
+          <Route exact path={["/pages/IdaShop"]}>
             <IdaShop />
           </Route>
 
-          <Route to="/Resume">
-            < Resume />
+          <Route exact path={["/pages/resume"]}>
+            <Resume />
           </Route>
 
-          < Route to="/Links">
+          < Route exact path={["/pages/ThirdPtyLinks"]}>
             <ThirdPtyLinks />
           </Route>
       </Switch>
