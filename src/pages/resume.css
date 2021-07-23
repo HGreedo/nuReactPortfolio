@@ -1,9 +1,9 @@
 .container {
     align-items: center;
     margin-top: 20px;
+    margin-right: 30px;
 }
 .resume-container {
-    display: block;
     max-width: 1000px;
     max-height: 1800px;
     
