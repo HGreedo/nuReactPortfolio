@@ -21,7 +21,7 @@
     width: 80%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 300;
-    background-color: olivedrab;
+    background-color: maroon;
     color: ivory;
     padding-top: 10px;
     padding-left: 20px;
@@ -29,7 +29,7 @@
 }
 
 .OFBC {
-    color: slateblue;
+    color: hotpink;
     height: 30px;
     width: 70px;
 }
@@ -41,7 +41,8 @@
 .email {
     align-items: center;
 
-    color: slateblue;
+    color: hotpink;
     height: 40px;
     width: 60px;
+    padding-bottom: 50px;
 }

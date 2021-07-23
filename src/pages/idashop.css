@@ -1,19 +1,17 @@
 .idashop-header {
-    border-radius: 2px;
-    border-bottom: solid black;
     justify-content: left;
     width: 80%;
 }
 
 .shop-link {
     display: flex;
-    height: 60px;
+    height: 50px;
     width: 300px;
     background-color: coral;
     color: ivory;
     margin-left: 30px;
     padding-left: 30px;
-    padding-top: 40px;
+    padding-top: 30px;
 }
 
 .shoplink-text {
