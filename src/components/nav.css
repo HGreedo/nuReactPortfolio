@@ -24,7 +24,7 @@
     #back-btn {
         justify-self: right;
         color: forestgreen;
-        padding-left: 400px;
+        margin-left: 400px;
     }
    #back-btn:hover {
        color: hotpink;
