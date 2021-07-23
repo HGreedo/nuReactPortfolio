@@ -13,12 +13,12 @@
     width: 350px;
 }
 .about-container {
-    display: flex;
-    flex-direction: column;
+    margin-left: 100px;
     justify-content: center;
     font-size: 18px;
     width: 80%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
 }
 
 .OFBC {
