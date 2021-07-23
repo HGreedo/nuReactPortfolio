@@ -5,7 +5,7 @@
     }
     .navbarData {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         padding-block: 10px;
         font-weight: 700;
         font-size: 25px;
