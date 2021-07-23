@@ -2,10 +2,11 @@
     border-radius: 2px;
     border-bottom: solid black;
     justify-content: left;
+    width: 80%;
 }
 .shop-link {
-    height: 100px;
-    width: 500px;
+    height: 80px;
+    width: 100px;
     background-color: coral;
     color: ivory;
 }
@@ -19,4 +20,5 @@
     width: 1000px;
     background-color: slategray;
     color: ivory;
+    font-weight: 300;
 }
