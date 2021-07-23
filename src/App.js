@@ -8,10 +8,6 @@ import IdaShop from "./pages/IdaShop";
 import Resume from "./pages/Resume";
 import ThirdPtyLinks from "./pages/ThirdPtyLinks";
 
-
-
-
-
 function App() {
   return (
     <Router> 
@@ -21,22 +17,19 @@ function App() {
           <Home />
         </Route>
 
-          <Route exact path={["/api/brands/"]}>
+          <Route to="/pages/About-Me">
             <AboutMe/>
           </Route>
 
-          <Route exact path={["/api/brands/nameSort"]}>
-          </Route>
-
-          <Route exact path="/api/brandindex/profile">
+          <Route to="/IdaShop">
             <IdaShop />
           </Route>
 
-          <Route exact path="/api/brands/sign-up">
+          <Route to="/Resume">
             < Resume />
           </Route>
 
-          < Route exact path="/api/brands/login">
+          < Route to="/ThirdPtyLinks">
             <ThirdPtyLinks />
           </Route>
       </Switch>
