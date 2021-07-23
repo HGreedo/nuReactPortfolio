@@ -2,7 +2,7 @@ import './App.css';
 import Nav from './components/Nav';
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Home from "./pages/Home/Home";
+import Home from "./pages/Home";
 import AboutMe from "./pages/About-Me";
 import IdaShop from "./pages/IdaShop";
 import Resume from "./pages/Resume";
