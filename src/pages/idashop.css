@@ -1,0 +1,22 @@
+.idashop-header {
+    border-radius: 2px;
+    border-bottom: solid black;
+    justify-content: left;
+}
+.shop-link {
+    height: 50px;
+    width: 100px;
+    background-color: coral;
+    color: ivory;
+}
+.shop-link:hover {
+    background-color: slateblue;
+    color: coral;
+}
+.idashop-bio {
+    justify-content: center;
+    height: 500px;
+    width: 1000px;
+    background-color: slategray;
+    color: ivory;
+}
