@@ -1,3 +1,9 @@
 .link-container {
-    
+background-color: slategray;
+color: coral;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-top: 20px;
+padding: 20px;
+justify-self: center;
+justify-items: left;
 }
