@@ -11,7 +11,7 @@ function About() {
             <h1>Hey, I'm Harrison but most call me Harry</h1>
 
 
-            <h6> TL:DR I own a Small Women's Apparel Brand, recently graduated from a Full-Stack Web Bootcamp and currently work as an associate at Snow Peak's Warehouse. I like to work hard, and create product experiences that inspire people towards positive action. </h6>
+            <h6 className="tldr"> TL:DR I own a Small Women's Apparel Brand, recently graduated from a Full-Stack Web Bootcamp and currently work as an associate at Snow Peak's Warehouse. I like to work hard, and create product experiences that inspire people towards positive action. </h6>
             <br/>
             <p>
                 I'm originally from Portland, Oregon, but grew up overseas for 10 and a half years in Hong Kong and Amsterdam before getting my undergrad in Journalism and Fashion Marketing at the U of Arizona.
