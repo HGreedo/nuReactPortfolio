@@ -9,11 +9,9 @@
     width: 80%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
-    font-weight: 400;
-    background-color: ivory;
-    color: black;
-    border-radius: .5;
-    border-style: solid black;
+    font-weight: 300;
+    align-items: center;
+    color: ivory;
 
 
 }
