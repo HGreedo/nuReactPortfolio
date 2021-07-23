@@ -3,7 +3,7 @@ import Nav from './components/Nav';
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./pages/Home";
-import AboutMe from "./pages/About-Me";
+import About from "./pages/About-Me";
 import IdaShop from "./pages/IdaShop";
 import Resume from "./pages/Resume";
 import ThirdPtyLinks from "./pages/ThirdPtyLinks";
@@ -13,15 +13,15 @@ function App() {
     <Router> 
       <Nav />
       <Switch>
-        <Route to="/pages/Home">
+        <Route to="/">
           <Home />
         </Route>
 
-          <Route to="/pages/About-Me">
-            <AboutMe/>
+          <Route to="/About-Me">
+            <About/>
           </Route>
 
-          <Route to="/IdaShop">
+          <Route to="/IdaAnderssonShop">
             <IdaShop />
           </Route>
 
@@ -29,7 +29,7 @@ function App() {
             < Resume />
           </Route>
 
-          < Route to="/ThirdPtyLinks">
+          < Route to="/Links">
             <ThirdPtyLinks />
           </Route>
       </Switch>

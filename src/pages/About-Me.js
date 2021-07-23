@@ -1,6 +1,7 @@
 import React from "react";
 
-const About = () => (
+function About() {
+ return (
     <div>
             {/* <img alt ='profile-pic' src={profilePic}/>    */}
             <h1>Hello, I am Harrison</h1>
@@ -9,5 +10,5 @@ const About = () => (
             </p>
   </div>
         );
-
+ }
 export default About;
