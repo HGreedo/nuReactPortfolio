@@ -5,17 +5,19 @@
     width: 80%;
 }
 .shop-link {
+    display: flex;
     height: 80px;
-    width: 100px;
+    width: 300px;
     background-color: coral;
     color: ivory;
     margin-right: 30px;
+    padding-left: 30px;
 }
 .shop-link:hover {
     background-color: slateblue;
     color: coral;
     margin-right: 30px;
-
+    padding-left: 30px;
 }
 .idashop-bio {
     justify-content: center;
