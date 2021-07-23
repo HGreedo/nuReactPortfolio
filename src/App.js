@@ -13,7 +13,7 @@ function App() {
     <Router> 
       <Nav />
       <Switch>
-        <Route exact path={["/"]}>
+        <Route to="/pages/Home">
           <Home />
         </Route>
 
