@@ -1,0 +1,9 @@
+.profile-pic {
+    height: 200px;
+    width: 200px;
+}
+.about-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
