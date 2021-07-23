@@ -3,7 +3,7 @@ import img from "../images/HReedResume.png"
 import ('./resume.css')
 
 const Resume = () => (
-    <div>
+    <div className="container">
             <img className="resume-container" alt ='resume' src={img}/>   
             
   </div>

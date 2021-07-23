@@ -1,3 +1,7 @@
+.container {
+    align-items: center;
+    margin-top: 20px;
+}
 .resume-container {
     display: block;
     max-width: 1000px;
