@@ -19,10 +19,14 @@
     }
     .navbarData:hover {
         color: greenyellow;
+        cursor: pointer;
     }
     #back-btn {
         justify-self: right;
         color: forestgreen;
         padding-left: 400px;
     }
-   
+   #back-btn:hover {
+       color: hotpink;
+       cursor: pointer;
+   }
