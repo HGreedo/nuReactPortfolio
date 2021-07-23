@@ -23,7 +23,6 @@
 
 .OFBC {
     color: slateblue;
-    background-color: slategrey;
     height: 30px;
     width: 70px;
 }
@@ -32,7 +31,6 @@
 }
 .email {
     align-items: center;
-    background-color: slategrey;
     color: slateblue;
     height: 40px;
     width: 60px;
