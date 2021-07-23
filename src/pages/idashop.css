@@ -13,6 +13,10 @@
     margin-right: 30px;
     padding-left: 30px;
 }
+.shoplink-text {
+    color: ivory;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .shop-link:hover {
     background-color: slateblue;
     color: coral;

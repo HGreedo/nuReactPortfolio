@@ -4,7 +4,7 @@ import ('./idashop.css')
 const IdaShop = () => (
     <div className="idashop-header">
             <h3 className="shop-link"> 
-                <a href="https://www.idaanderssonshop.com/">Click Here to Check Out Ida Andersson Shop</a>
+                <a className="shoplink-text" href="https://www.idaanderssonshop.com/">Click Here to Check Out Ida Andersson Shop</a>
             </h3>
             <p className="idashop-bio">
             Ida Andersson LLC is a hand-made, Swedish Cozy Wear apparel brand that specializes in bespoke and custom-made clothing for women. 
