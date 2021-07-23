@@ -1,8 +1,9 @@
 import React from "react";
 import img from "../images/HReedResume.png"
+import ('./resume.css')
 
 const Resume = () => (
-    <div>
+    <div className="resume-container">
             <img alt ='resume' src={img}/>   
             
   </div>
