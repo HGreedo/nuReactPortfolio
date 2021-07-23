@@ -8,7 +8,7 @@ function About() {
     <div className="about-container">
             {<img className="profile-pic" alt ='profile-pic' src={img}/>    }
             
-            <h1>Hey, I'm Harrison but most call me Harry</h1>
+            <h1>Hello! My name is Harry</h1>
 
 
             <h6 className="tldr"> TL:DR I own a Small Women's Apparel Brand, recently graduated from a Full-Stack Web Bootcamp and currently work as an associate at Snow Peak's Warehouse. I like to work hard, and create product experiences that inspire people towards positive action. </h6>
