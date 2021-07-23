@@ -4,6 +4,7 @@
     justify-content: left;
     width: 80%;
 }
+
 .shop-link {
     display: flex;
     height: 60px;
@@ -14,14 +15,17 @@
     padding-left: 30px;
     padding-top: 40px;
 }
+
 .shoplink-text {
     color: ivory;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 .shop-link:hover {
     background-color: slateblue;
     color: coral;
 }
+
 .idashop-bio {
     justify-content: center;
     height: 500px;
@@ -31,8 +35,8 @@
     font-weight: 400;
     margin-left: 30px;
     padding-top: 50px;
-    padding-left: 20;
-    padding-right: 20;
+    padding-left: 20px;
+    padding-right: 20px;
     border-radius: 3px;
     border: black solid;
 
