@@ -29,7 +29,9 @@
     width: 70px;
 }
 .somethin-extra {
-    text-align: right;
+    text-align: center;
+    background-color: coral;
+    color:ivory;
 }
 .email {
     align-items: center;
