@@ -10,8 +10,9 @@
     width: 300px;
     background-color: coral;
     color: ivory;
-    margin-right: 30px;
+    margin-left: 30px;
     padding-left: 30px;
+    padding-top: 40px;
 }
 .shoplink-text {
     color: ivory;
@@ -20,8 +21,6 @@
 .shop-link:hover {
     background-color: slateblue;
     color: coral;
-    margin-right: 30px;
-    padding-left: 30px;
 }
 .idashop-bio {
     justify-content: center;
@@ -29,8 +28,8 @@
     width: 1000px;
     background-color: slategray;
     color: ivory;
-    font-weight: 300;
-    margin-right: 30px;
+    font-weight: 400;
+    margin-left: 30px;
     padding-top: 50px;
 
 }
