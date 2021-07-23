@@ -1,22 +1,48 @@
 import './App.css';
+import Nav from './components/Nav';
+import React from 'react';
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import Home from "./pages/Home/Home";
+import AboutMe from "./pages/About-Me";
+import IdaShop from "./pages/IdaShop";
+import Resume from "./pages/Resume";
+import ThirdPtyLinks from "./pages/ThirdPtyLinks";
+
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Welcome to Harrison Reed's Portfolio!</h1>
-        <h4>I am seeking Software Product Coordinator Career Opportunities!</h4>
-        <h2>Thank You For Checking Out My Work!</h2>
-        <div className="clickable-links-card">
-        <a className="click-link" href="https://www.linkedin.com/in/harrison-reed-067436170/">Check Out My LinkedIn</a>
-        <br/>
-        <br />
-        <a className="click-link" href="https://github.com/HGreedo"> Check Out My Github </a>
-        <a className="email" href="mailto:reedharrison95@gmai.com"> Send me an email HERE</a>
-        </div>
-      </header>
-    </div>
+    <Router> 
+      <Nav />
+      <Switch>
+        <Route exact path={["/"]}>
+          <Home />
+        </Route>
+
+          <Route exact path={["/api/brands/"]}>
+            <AboutMe/>
+          </Route>
+
+          <Route exact path={["/api/brands/nameSort"]}>
+          </Route>
+
+          <Route exact path="/api/brandindex/profile">
+            <IdaShop />
+          </Route>
+
+          <Route exact path="/api/brands/sign-up">
+            < Resume />
+          </Route>
+
+          < Route exact path="/api/brands/login">
+            <ThirdPtyLinks />
+          </Route>
+      </Switch>
+    </Router>
+
   );
 }
-
+ 
 export default App;
