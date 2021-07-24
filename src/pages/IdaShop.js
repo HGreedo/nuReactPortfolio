@@ -16,10 +16,10 @@ const IdaShop = () => (
             I also do all the fabric cutting by hand. I'm not afraid to get my hands dirty, and together - Ida and I have been built an efficient Order Management System that is profitable and sustainable for our business. 
             <br/>
             <br/>
-            This has been the most fun and incredibly rewarding experience in so many aspects. 
+            This has been the most fun and incredibly rewarding experience in so many aspects. It was the catalyst for why I wanted to pursue studying web development.
             <br/>
             <br />
-            Also, for both Ida and I, Ida Andersson LLC acted as a 'proving ground,' and to see what we could create together when we combine our skils and creativity!
+            And, for Ida and I, Ida Andersson LLC was a 'proving ground,' and freedom to see what we could build together when we combine our skils and creativity!
             </p>
 
             <ul className="takeaways"> 
@@ -38,7 +38,8 @@ const IdaShop = () => (
                 </li>
             </ul>
 
-            
+
+
   </div>
         );
 
