@@ -35,11 +35,20 @@ const ThirdPtyLinks = () => (
             </li>
 
             <li className="link">
-            <a href="https://github.com/HGreedo?tab=repositories">School Work Repos</a>
+            <a href="https://github.com/HGreedo?tab=repositories">University of Oregon Work Assignment Repositories</a>
             </li>
+            
+            <li className="link">
+            <a href="https://www.youtube.com/channel/UCvZV5eUFMovWcflaRRrIMCA/videos">University of Arizona Journalism Video Work</a>
+            </li>
+
+            <li className="link">
+            <a href="https://indearizona.com/tucson-tattoo-culture-oasis-for-art-expression-in-southwest/">Tattoo Tourism Story - "El Inde Arizona"</a>
+            </li>
+
             </div>
 
-
+            
 
 <div className="ida-shop"> 
             <li className="link">
