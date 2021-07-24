@@ -15,6 +15,8 @@ border-radius: 2px solid black;
 
 .h3 {
     padding-bottom: 10px;
+    border-bottom: 3px solid black;
+
 }
 
 .li .link {
@@ -22,14 +24,6 @@ border-radius: 2px solid black;
     color: coral;
     padding-top: 5px;
     padding-bottom: 5px;
-}
-
-.link {
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-.link-body {
-    background-color: slategray;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
 }
