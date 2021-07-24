@@ -1,5 +1,5 @@
 
-.link-container {
+.container {
 display: flex;
 flex-direction: row;
 background-color: slategray;
@@ -12,51 +12,7 @@ justify-items: left;
 border-radius: 2px solid black;
 }
 
-.personal-stuff{
-    display: inline;
-    flex-direction: row;
-    height: 15px;
-    width: 500px;
 
-    background-color: slategray;
-}
-.personal-stuff .links {
-    padding-top: 5px;
-    padding-bottom: 5px;
-    list-style: none;
-
-}
-
-.school-projects {
-    display: inline;
-    flex-direction: row;
-    height: 15px;
-    width: 500px;
-    color: ivory;
-    background-color: slategray;
-}
-
-.school-projects .links {
-    padding-top: 5px;
-    padding-bottom: 5px;
-    list-style: none;
-  
-}
-.ida-shop {
-    display: inline;
-    flex-direction: row;
-    height: 15px;
-    width: 500px;
-    color: ivory;
-    background-color: slategray;
-}
-.ida-shop .links {
-        padding-top: 5px;
-        padding-bottom: 5px;
-        list-style: none;
-   
-
-}
 .h3 {
     padding-bottom: 10px;
 }

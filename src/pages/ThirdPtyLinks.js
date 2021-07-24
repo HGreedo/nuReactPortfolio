@@ -5,7 +5,8 @@ const ThirdPtyLinks = () => (
     <div className="link-body">
             <ul className="link-container"> 
     
-    <div className="personal-stuff"> <h3>Github/LinkedIn/Email</h3>
+
+    <div className="container"> <h3>Github/LinkedIn/Email</h3>
             <li className="link">
             <a href="https://github.com/HGreedo">Check Out My Github</a>
             </li>
@@ -17,7 +18,7 @@ const ThirdPtyLinks = () => (
             </li>
         </div>
 
-<div className="school-projects">  <h3> School Projects</h3>
+<div className="container">  <h3> School Projects</h3>
             <li className="link">
             <a href="https://finalproject-ofbc.herokuapp.com/">Final Project "OFBC" *still in development*</a>
             </li>
@@ -50,7 +51,7 @@ const ThirdPtyLinks = () => (
 
             
 
-<div className="ida-shop">  <h3>Ida Andersson Shop Details</h3>
+<div className="container">  <h3>Ida Andersson Shop Details</h3>
             <li className="link">
             <a href="https://www.idaanderssonshop.com/">Ida Andersson Shop</a>
             </li>

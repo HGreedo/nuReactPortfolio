@@ -42,12 +42,11 @@
 }
 
 .takeaways{
-    display: flex;
     justify-content: right;
     padding-bottom: 30px;
     padding-top: 5px;
-    background-color: ivory;
-    border-radius: 3px solid coral;
+    border-radius: 3px;
+    border:solid black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .takeaway-header {
