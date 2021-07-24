@@ -48,6 +48,10 @@
     border-radius: 3px;
     border:solid black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 800px;
+    margin-bottom: 600px;
+    height: 700px;
+    width: 250px;
 }
 .takeaway-header {
     font-weight: 400;
