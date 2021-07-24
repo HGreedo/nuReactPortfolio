@@ -40,3 +40,17 @@
     border: black solid;
 
 }
+
+.takeaways{
+    display: flex;
+    justify-content: right;
+    padding-bottom: 30px;
+    padding-top: 5px;
+    background-color: ivory;
+    border-radius: 3px solid coral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.takeaway-header {
+    font-weight: 400;
+    border-bottom: 1px solid black;
+}
