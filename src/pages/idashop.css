@@ -58,3 +58,8 @@
     font-weight: 400;
     border-bottom: 1px solid black;
 }
+
+.idashop-bio .takeaways {
+    display: flex;
+    flex-direction: row;
+}

@@ -6,6 +6,7 @@ const IdaShop = () => (
             <h3 className="shop-link"> 
                 <a className="shoplink-text" href="https://www.idaanderssonshop.com/">Click Here to Check Out Ida Andersson Shop</a>
             </h3>
+            
             <p className="idashop-bio">
             Ida Andersson LLC is a hand-made, Swedish-American apparel brand that specializes in bespoke, custom-made "Cozy Wear" for women. 
             The brand was created as an established business in April 2020 by Ida and Harrison. 
