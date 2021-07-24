@@ -27,3 +27,12 @@ border-radius: 2px solid black;
     display: flex;
     flex-direction: column;
 }
+
+.atag {
+    padding: auto;
+    color: coral;
+}
+
+.atag:hover {
+    color: maroon;
+}
