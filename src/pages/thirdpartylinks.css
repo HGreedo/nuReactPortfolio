@@ -22,6 +22,8 @@ border-radius: 2px solid black;
     padding-top: 5px;
     padding-bottom: 5px;
     list-style: none;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
 }
 
 .school-projects {
@@ -37,6 +39,8 @@ border-radius: 2px solid black;
     padding-top: 5px;
     padding-bottom: 5px;
     list-style: none;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
 }
 .ida-shop {
     display: inline;
@@ -50,5 +54,7 @@ border-radius: 2px solid black;
         padding-top: 5px;
         padding-bottom: 5px;
         list-style: none;
+        overflow: hidden;
+        transition: max-height 0.2s ease-out;
 
 }
