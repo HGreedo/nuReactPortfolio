@@ -7,17 +7,38 @@ const IdaShop = () => (
                 <a className="shoplink-text" href="https://www.idaanderssonshop.com/">Click Here to Check Out Ida Andersson Shop</a>
             </h3>
             <p className="idashop-bio">
-            Ida Andersson LLC is a hand-made, Swedish Cozy Wear apparel brand that specializes in bespoke and custom-made clothing for women. 
-            The brand was established in the wake of the Covid-19 Pandemic by Ida and Harry. Together, we sold over 400 uniquely hand-made items in the first 12-months of operation, as well as MOQ's to boutiques in the Portland Area.
+            Ida Andersson LLC is a hand-made, Swedish-American apparel brand that specializes in bespoke, custom-made "Cozy Wear" for women. 
+            The brand was created as an established business in April 2020 and a by Ida and Harrison. Together, we have produced and sold over 400 uniquely hand-made items in our first 12-months of operation. We also sell MOQ's to boutiques in the Portland Area.
             <br/>
             <br/>
-            My role in Ida Andersson Shop is heavily involved with web development, digital content creation, marketing, and networking. 
+            Ida has oever 17 years of sewing experience oversees apparel design and construction, while my role is heavily involved with web development, eCommerce, content creation, marketing, and networking. 
             <br/>
-            I'm not afraid to get my hands dirty so I also do all the fabric cutting, trimming and preparation of garments to help with production efficiency.
+            I also do all the fabric cutting by hand. I'm not afraid to get my hands dirty, and together - Ida and I have been built an efficient Order Management System that is profitable and sustainable for our business. 
             <br/>
             <br/>
-            This has been an incredibly rewarding experience. For both Ida and I, Ida Andersson LLC really was a 'proving ground' for both of us to combine our skils together to make something that we feel is successful!
+            This has been the most fun and incredibly rewarding experience in so many aspects. 
+            <br/>
+            <br />
+            Also, for both Ida and I, Ida Andersson LLC acted as a 'proving ground,' and to see what we could create together when we combine our skils and creativity!
             </p>
+
+            <ul className="takeaways"> 
+                <li className="takeaway-header"> The biggest takeaways and where I can make an immediate impact: </li>
+                <li>
+                    Concept Planning and Production 
+                </li>
+                <li>
+                    Asset Management: Tangible and Digital
+                </li>
+                <li>
+                    Content Creation: Web Dev, Brand Communication, Photography
+                </li>
+                <li>
+                    Networking and Collaboration: Material Sourcing, Connecting and learning from Industry Professionals, and Creating Revenue through Engagement
+                </li>
+            </ul>
+
+            
   </div>
         );
 
