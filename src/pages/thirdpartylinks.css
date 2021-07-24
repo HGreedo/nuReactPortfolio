@@ -1,12 +1,14 @@
 .link-container {
-    display: flex;
+display: flex;
+flex-direction: row;
 background-color: slategray;
-color: coral;
+color: ivory;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 margin-top: 20px;
 padding: 20px;
 justify-self: center;
 justify-items: left;
+border-radius: 2px solid black;
 }
 
 .personal-stuff{
@@ -35,4 +37,18 @@ justify-items: left;
     padding-top: 5px;
     padding-bottom: 5px;
     list-style: none;
+}
+.ida-shop {
+    display: inline;
+    flex-direction: row;
+    height: 15px;
+    width: 500px;
+    background-color: coral;
+    color: ivory;
+}
+.ida-shop .links {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        list-style: none;
+
 }
