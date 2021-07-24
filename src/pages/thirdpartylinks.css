@@ -57,7 +57,9 @@ border-radius: 2px solid black;
    
 
 }
-
+.h3 {
+    padding-bottom: 10px;
+}
 
 .li .link {
     background-color: slategray;
