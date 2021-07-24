@@ -17,14 +17,14 @@ border-radius: 2px solid black;
     flex-direction: row;
     height: 15px;
     width: 500px;
-    background-color: ivory;
+
+    background-color: slategray;
 }
 .personal-stuff .links {
     padding-top: 5px;
     padding-bottom: 5px;
     list-style: none;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
+
 }
 
 .school-projects {
@@ -32,30 +32,28 @@ border-radius: 2px solid black;
     flex-direction: row;
     height: 15px;
     width: 500px;
-    background-color: coral;
     color: ivory;
+    background-color: slategray;
 }
 
 .school-projects .links {
     padding-top: 5px;
     padding-bottom: 5px;
     list-style: none;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
+  
 }
 .ida-shop {
     display: inline;
     flex-direction: row;
     height: 15px;
     width: 500px;
-    background-color: coral;
     color: ivory;
+    background-color: slategray;
 }
 .ida-shop .links {
         padding-top: 5px;
         padding-bottom: 5px;
         list-style: none;
-        overflow: hidden;
-        transition: max-height 0.2s ease-out;
+   
 
 }
