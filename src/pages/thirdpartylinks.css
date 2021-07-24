@@ -7,3 +7,31 @@ padding: 20px;
 justify-self: center;
 justify-items: left;
 }
+
+.personal-stuff{
+    display: inline;
+    flex-direction: row;
+    height: 15px;
+    width: 500px;
+    background-color: ivory;
+}
+.personal-stuff .links {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    list-style: none;
+}
+
+.school-projects {
+    display: inline;
+    flex-direction: row;
+    height: 15px;
+    width: 500px;
+    background-color: coral;
+    color: ivory;
+}
+
+.school-projects .links {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    list-style: none;
+}
