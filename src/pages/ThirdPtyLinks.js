@@ -1,5 +1,6 @@
 import React from "react";
-import ('./thirdpartylinks.css')
+import ('./thirdpartylinks.css');
+
 const ThirdPtyLinks = () => (
     <div>
             <ul className="link-container"> 
