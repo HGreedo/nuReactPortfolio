@@ -2,7 +2,7 @@ import React from "react";
 import ('./thirdpartylinks.css');
 
 const ThirdPtyLinks = () => (
-    <div>
+    <div className="link-body">
             <ul className="link-container"> 
     
     <div className="personal-stuff"> <h3>Github/LinkedIn/Email</h3>

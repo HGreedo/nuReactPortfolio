@@ -67,7 +67,11 @@ border-radius: 2px solid black;
 }
 
 .link {
-    background-color: slategray;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.link-body {
+    background-color: slategray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
