@@ -32,6 +32,10 @@ const ThirdPtyLinks = () => (
             <li className="link">
             <a href="https://docs.google.com/presentation/d/1mUAch6rXh79rro9NWX30VUXOumrSwu9DyHqwXFJlAQQ/edit#slide=id.p">Momentous Presentation</a>
             </li>
+
+            <li className="link">
+            <a href="https://github.com/HGreedo?tab=repositories">School Work Repos</a>
+            </li>
             </div>
 
 
@@ -49,9 +53,7 @@ const ThirdPtyLinks = () => (
             <a href="https://www.etsy.com/shop/IdaAnderssonShop">Reviews on Etsy</a>
             </li>
 
-            <li className="link">
-            <a href="https://github.com/HGreedo?tab=repositories">School Work Repos</a>
-            </li>
+            
             </div>
 
 
