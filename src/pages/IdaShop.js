@@ -8,12 +8,16 @@ const IdaShop = () => (
             </h3>
             <p className="idashop-bio">
             Ida Andersson LLC is a hand-made, Swedish-American apparel brand that specializes in bespoke, custom-made "Cozy Wear" for women. 
-            The brand was created as an established business in April 2020 and a by Ida and Harrison. Together, we have produced and sold over 400 uniquely hand-made items in our first 12-months of operation. We also sell MOQ's to boutiques in the Portland Area.
+            The brand was created as an established business in April 2020 by Ida and Harrison. 
+            <br/>
+            <br/>
+            Together, we produced and sold over 400 uniquely hand-made items in our first 12-months. We also sell MOQ's to boutiques in the Portland Area.
             <br/>
             <br/>
             Ida has oever 17 years of sewing experience oversees apparel design and construction, while my role is heavily involved with web development, eCommerce, content creation, marketing, and networking. 
             <br/>
-            I also do all the fabric cutting by hand. I'm not afraid to get my hands dirty, and together - Ida and I have been built an efficient Order Management System that is profitable and sustainable for our business. 
+            <br/>
+            I also do all the fabric cutting by hand and I'm not afraid to get my hands dirty. To be able to keep up with demand, we figured out how build an efficient Order Management System that was profitable and sustainable for our business. 
             <br/>
             <br/>
             This has been the most fun and incredibly rewarding experience in so many aspects. It was the catalyst for why I wanted to pursue studying web development.
