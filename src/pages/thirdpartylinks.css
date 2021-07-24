@@ -65,3 +65,9 @@ border-radius: 2px solid black;
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+.link {
+    background-color: slategray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
