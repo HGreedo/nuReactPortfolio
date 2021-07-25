@@ -23,7 +23,6 @@ width: 100%;
 }
 .atag {
     display: flex;
-    width: 10%;
     color: coral;
     margin-left: 20px;
     list-style: none;
