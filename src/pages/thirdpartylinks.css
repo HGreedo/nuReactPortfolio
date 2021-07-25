@@ -1,5 +1,6 @@
 .link-body{
     display: flex;
+    list-style: none;
 }
 
 
@@ -28,13 +29,10 @@ width: 100%;
 .atag {
     display: flex;
     width: 10%;
-    padding-left: 20px;
-    padding-right: 20px;
     color: coral;
-    margin-left: 50px;
+    margin-left: 20px;
     list-style: none;
     margin-right: 20px;
-    text-shadow: 0px 0px 1px 3px black;
 }
 
 .atag:hover {
