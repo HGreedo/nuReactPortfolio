@@ -1,6 +1,5 @@
 .link-body{
     display: flex;
-    list-style: none;
 }
 
 
@@ -16,13 +15,16 @@ padding: 20px;
 width: 100%;
 }
 
+.container .li {
+    list-style: none;
+}
 
+.link-container .li {
+    list-style: none;
+}
 .h3 {
     padding-bottom: 10px;
     width: 20%;
-}
-.container .li {
-    list-style: none;
 }
 .atag {
     display: flex;
