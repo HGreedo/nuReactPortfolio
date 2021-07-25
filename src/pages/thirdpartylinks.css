@@ -1,7 +1,9 @@
 .link-body{
     display: flex;
 }
-
+.ul {
+    list-style-type: none;
+}
 
 
 .container {
