@@ -7,13 +7,14 @@
 
 .shop-link {
     display: flex;
-    height: 400px;
+    height: 300px;
     width: 300px;
     background-color: coral;
     color: ivory;
     margin-left: 30px;
     padding-left: 30px;
     padding-top: 30px;
+    padding-bottom: 10px;
     border-style: solid black;
 }
 
@@ -29,12 +30,13 @@
 
 .idashop-bio {
     justify-content: center;
-    height: 500px;
-    width: 1000px;
+    height: 700px;
+    width: 40%;
     background-color: slategray;
     color: ivory;
     font-weight: 400;
     margin-left: 30px;
+    margin-right: 20px;
     padding-top: 30px;
     padding-left: 20px;
     padding-right: 20px;
@@ -51,8 +53,10 @@
     border-radius: 3px;
     border:solid black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width: 300px;
+    width: 35%;
     height: 400px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 .takeaway-header {
     font-weight: 400;
