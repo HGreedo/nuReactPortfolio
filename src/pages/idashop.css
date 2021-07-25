@@ -7,7 +7,7 @@
 
 .shop-link {
     display: flex;
-    height: 300px;
+    height: 100px;
     width: 300px;
     background-color: coral;
     color: ivory;
@@ -15,6 +15,7 @@
     padding-left: 30px;
     padding-top: 30px;
     padding-bottom: 10px;
+    border-radius: 2px;
     border-style: solid black;
 }
 
@@ -30,7 +31,7 @@
 
 .idashop-bio {
     justify-content: center;
-    height: 700px;
+    height: 500px;
     width: 40%;
     background-color: slategray;
     color: ivory;
@@ -54,13 +55,15 @@
     border:solid black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 35%;
-    height: 400px;
+    height: 250px;
     margin-right: 20px;
     margin-left: 20px;
 }
 .takeaway-header {
     font-weight: 400;
     border-bottom: 1px solid black;
+    list-style: none;
+    padding-bottom: 6px;
 }
 
 .idashop-bio .takeaways {
@@ -70,6 +73,7 @@
 
 .takeaways .li {
     padding-left: 20px;
-    padding-inline: 10px;
     padding-right: 20px;
+    padding: 8px;
+    
 }
