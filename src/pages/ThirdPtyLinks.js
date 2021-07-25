@@ -20,15 +20,15 @@ const ThirdPtyLinks = () => (
 
 <div className="container">  <h3> School Projects</h3>
             <li className="link">
-            <a href="https://finalproject-ofbc.herokuapp.com/">Final Project "OFBC" *still in development*</a>
+            <a className="atag" href="https://finalproject-ofbc.herokuapp.com/">Final Project "OFBC" *still in development*</a>
             </li>
 
             <li className="link">
-            <a href="https://pdxbellasaurus.github.io/superheroBirthdayBash/">Hero Birthday Bash Project</a>
+            <a className="atag" href="https://pdxbellasaurus.github.io/superheroBirthdayBash/">Hero Birthday Bash Project</a>
             </li>
 
             <li className="link">
-            <a href="https://docs.google.com/presentation/d/1YN1dKxGTsNWpa24_HdFn7iy1BhZx8Ref-P-BbM_Nm-k/edit?usp=sharing">Presentation</a>
+            <a className="atag" href="https://docs.google.com/presentation/d/1YN1dKxGTsNWpa24_HdFn7iy1BhZx8Ref-P-BbM_Nm-k/edit?usp=sharing">Presentation</a>
             </li>
 
             <li className="link">
