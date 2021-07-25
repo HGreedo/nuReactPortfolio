@@ -50,7 +50,7 @@ function About() {
         </div>
         <div>
 
-        <a className="email" href="mailto:reedharrison95@gmai.com"> Click Here to Send Me an Email</a>
+        <a className="email" href="mailto:reedharrison95@gmai.com"> Send Me an Email</a>
 
         </div>
   </div>
