@@ -8,9 +8,7 @@ function Home() {
           <h5 className="home-blurb">I want to use my skills as a brand and digital product storyteller to foster collaboration as a Digital Product Management Specialist - eCommerce Platforms.
               <br/>
               <br/>
-Over the past year, I’ve dialed my skills as a web developer and digital marketer to create impactful products that engage consumers and generate revenue. 
 <br/>
-
 <br/>
 <br/>
 My goal as a journalist, an entrepreneur, and as a growing software developer is to create products that engage, inspire, and drive positive action. 
