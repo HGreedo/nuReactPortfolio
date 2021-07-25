@@ -1,6 +1,8 @@
 .idashop-header {
     justify-content: left;
     width: 80%;
+    display: flex;
+    flex-direction: row;
 }
 
 .shop-link {
