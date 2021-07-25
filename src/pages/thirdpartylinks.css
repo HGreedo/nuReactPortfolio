@@ -1,7 +1,6 @@
 
 .container {
-display: flex;
-flex-direction: row;
+
 background-color: slategray;
 color: ivory;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -16,6 +15,8 @@ margin-right: 50px;
     width: 20%;
 }
 .atag {
+    display: flex;
+flex-direction: row;
     color: coral;
     margin-left: 20px;
     margin-right: 20px;
