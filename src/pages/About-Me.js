@@ -9,7 +9,7 @@ function About() {
             <h1>Hello! My name is Harry Reed</h1>
 
 
-            <h6 className="tldr"> "TL:DR" I own a Small Women's Apparel Brand, recently graduated from a Full-Stack Web Bootcamp and currently work as an associate at Snow Peak's Warehouse. I like to create product experiences that inspire people towards positive action. </h6>
+            <h6 className="tldr"> TL:DR I own a Small Women's Apparel Brand, recently graduated from a Full-Stack Web Bootcamp and currently work as an associate at Snow Peak's Warehouse. I like to create product experiences that inspire people towards positive action. </h6>
             <br/>
             <p>
                 I'm originally from Portland, Oregon, but grew up overseas for 10 and a half years in Hong Kong and Amsterdam before getting my undergrad in Journalism and Fashion Marketing at the University of Arizona.
