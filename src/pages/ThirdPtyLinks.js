@@ -18,7 +18,7 @@ const ThirdPtyLinks = () => (
             </li>
         </div>
 
-<div className="container">  <h3> School Projects</h3>
+<div className="container">  <h3>Univ. of Oregon: Full Stack Coding School Projects</h3>
             <li className="link">
             <a className="atag" href="https://finalproject-ofbc.herokuapp.com/">Final Project "OFBC" *still in development*</a>
             </li>
@@ -28,7 +28,7 @@ const ThirdPtyLinks = () => (
             </li>
 
             <li className="link">
-            <a className="atag" href="https://docs.google.com/presentation/d/1YN1dKxGTsNWpa24_HdFn7iy1BhZx8Ref-P-BbM_Nm-k/edit?usp=sharing">Presentation</a>
+            <a className="atag" href="https://docs.google.com/presentation/d/1YN1dKxGTsNWpa24_HdFn7iy1BhZx8Ref-P-BbM_Nm-k/edit?usp=sharing">Birthday Bash Presentation</a>
             </li>
 
             <li className="link">
@@ -40,7 +40,7 @@ const ThirdPtyLinks = () => (
             </li>
 
             <li className="link">
-            <a className="atag" href="https://github.com/HGreedo?tab=repositories">University of Oregon Work Assignment Repositories</a>
+            <a className="atag" href="https://github.com/HGreedo?tab=repositories">Homework Assignment Repositories</a>
             </li>
             
             <li className="link">
