@@ -16,6 +16,7 @@ margin-right: 50px;
 }
 .atag {
     display: flex;
+    float: inline-start;
     color: black;
     margin-left: 20px;
     margin-right: 20px;
