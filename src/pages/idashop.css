@@ -54,13 +54,12 @@
     border-radius: 3px;
     border:solid black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width: 35%;
+    width: 40%;
     height: 250px;
     margin-right: 20px;
     margin-left: 20px;
 }
 .takeaway-header {
-    font-weight: 400;
     border-bottom: 1px solid black;
     list-style: none;
     padding-bottom: 6px;
