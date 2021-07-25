@@ -1,3 +1,8 @@
+.link-body{
+    display: flex;
+}
+
+
 
 .container {
 display: flex;
