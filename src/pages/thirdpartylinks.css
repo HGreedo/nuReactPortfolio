@@ -26,13 +26,15 @@ border-radius: 2px solid black;
     padding-bottom: 5px;
     display: flex;
     flex-direction: column;
+    list-style: none;
 }
 
 .atag {
     display: flex;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
     color: coral;
+    margin-left: 50px;
 }
 
 .atag:hover {
