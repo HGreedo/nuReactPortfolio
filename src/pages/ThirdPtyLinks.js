@@ -19,7 +19,6 @@ const ThirdPtyLinks = () => (
         </div>
 
 <div className="container">  <h3>Full Stack Coding School Projects</h3>
-<ul>  
             <li >
             <a className="atag" href="https://finalproject-ofbc.herokuapp.com/">Final Project "OFBC" *still in development*</a>
             </li>
@@ -51,13 +50,13 @@ const ThirdPtyLinks = () => (
             <li >
             <a  className="atag" href="https://indearizona.com/tucson-tattoo-culture-oasis-for-art-expression-in-southwest/">Tattoo Tourism Story - "El Inde Arizona"</a>
             </li>
-            </ul>
+
             </div>
 
             
 
 <div className="container">  <h3>Ida Andersson Shop Details</h3>
-<ul>
+
             <li >
             <a className="atag" href="https://www.idaanderssonshop.com/">Ida Andersson Shop</a>
             </li>
@@ -70,11 +69,8 @@ const ThirdPtyLinks = () => (
             <a className="atag" href="https://www.etsy.com/shop/IdaAnderssonShop">Reviews on Etsy</a>
             </li>
 
-            </ul>
-            </div>
             
-
-
+            </div>
 
 
             </ul>

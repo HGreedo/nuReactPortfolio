@@ -1,9 +1,7 @@
 .link-body{
     display: flex;
 }
-.ul {
-    list-style-type: none;
-}
+
 
 
 .container {
@@ -17,8 +15,13 @@ padding: 20px;
 width: 100%;
 }
 
+.container .li {
+    list-style: none;
+}
 
-
+.link-container .li {
+    list-style: none;
+}
 .h3 {
     padding-bottom: 10px;
     width: 20%;
