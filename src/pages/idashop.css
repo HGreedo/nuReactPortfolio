@@ -1,13 +1,13 @@
 .idashop-header {
     justify-content: left;
-    width: 80%;
+    width: 90%;
     display: flex;
     flex-direction: row;
 }
 
 .shop-link {
     display: flex;
-    height: 50px;
+    height: 400px;
     width: 300px;
     background-color: coral;
     color: ivory;
