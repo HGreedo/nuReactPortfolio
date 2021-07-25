@@ -29,16 +29,16 @@ const IdaShop = () => (
 
             <ul className="takeaways"> 
                 <li className="takeaway-header"> The biggest takeaways and where I can make an immediate impact: </li>
-                <li>
+                <li className="takeaway-children">
                     Concept Planning and Production 
                 </li>
-                <li>
+                <li className="takeaway-children">
                     Asset Management: Tangible and Digital
                 </li>
-                <li>
+                <li className="takeaway-children">
                     Content Creation: Web Dev, Brand Communication, Photography
                 </li>
-                <li>
+                <li className="takeaway-children">
                     Networking and Collaboration: Material Sourcing, Connecting and learning from Industry Professionals, and Creating Revenue through Engagement
                 </li>
             </ul>

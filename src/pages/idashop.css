@@ -47,7 +47,7 @@
 
 }
 
-.takeaways{
+.takeaways {
     justify-content: right;
     padding-bottom: 30px;
     padding-top: 5px;
@@ -70,7 +70,7 @@
     flex-direction: row;
 }
 
-.takeaways .li {
+.takeaway-children {
     padding-left: 20px;
     padding-right: 20px;
     padding: 8px;
