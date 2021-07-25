@@ -10,7 +10,7 @@ padding: 20px;
 justify-self: center;
 justify-items: left;
 border-radius: 2px solid black;
-width: 90%;
+width: 95%;
 }
 
 
@@ -32,13 +32,14 @@ width: 90%;
 
 .atag {
     display: flex;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
     color: coral;
     margin-left: 50px;
     list-style: none;
     margin-right: 20px;
     text-shadow: 0px 0px 1px 3px black;
+    width: 200px;
 }
 
 .atag:hover {
