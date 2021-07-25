@@ -48,11 +48,6 @@
     border-radius: 3px;
     border:solid black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-left: 800px;
-    margin-bottom: 600px;
-    height: 700px;
-    width: 250px;
-    padding: 20px;
 }
 .takeaway-header {
     font-weight: 400;
@@ -62,4 +57,10 @@
 .idashop-bio .takeaways {
     display: flex;
     flex-direction: row;
+}
+
+.takeaways .li {
+    padding-left: 20px;
+    padding-inline: 10px;
+    padding-right: 20px;
 }
