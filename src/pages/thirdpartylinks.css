@@ -15,10 +15,8 @@ width: 100%;
     width: 20%;
 }
 .atag {
-    display: flex;
     color: coral;
     margin-left: 20px;
-    list-style: none;
     margin-right: 20px;
 }
 
