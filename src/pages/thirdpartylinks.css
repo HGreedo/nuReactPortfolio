@@ -17,12 +17,12 @@ margin-right: 50px;
 .atag {
     display: flex;
 flex-direction: row;
-    color: coral;
+    color: black;
     margin-left: 20px;
     margin-right: 20px;
     width: 80%;
 }
 
 .atag:hover {
-    color: maroon;
+    color: coral
 }
