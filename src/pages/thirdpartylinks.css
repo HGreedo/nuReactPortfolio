@@ -44,3 +44,6 @@ width: 90%;
 .atag:hover {
     color: maroon;
 }
+.li.link::marker {
+    list-style: none;
+}
