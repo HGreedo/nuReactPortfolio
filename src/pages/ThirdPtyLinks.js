@@ -18,7 +18,7 @@ const ThirdPtyLinks = () => (
             </li>
         </div>
 
-<div className="container">  <h3>Univ. of Oregon: Full Stack Coding School Projects</h3>
+<div className="container">  <h3>Full Stack Coding School Projects</h3>
             <li className="link">
             <a className="atag" href="https://finalproject-ofbc.herokuapp.com/">Final Project "OFBC" *still in development*</a>
             </li>
