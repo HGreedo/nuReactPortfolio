@@ -24,27 +24,27 @@ const ThirdPtyLinks = () => (
             </li>
 
             <li className="link">
-            <a className="atag" href="https://pdxbellasaurus.github.io/superheroBirthdayBash/">Hero Birthday Bash Project</a>
+            <a className="atag" href="https://pdxbellasaurus.github.io/superheroBirthdayBash/">"Hero Birthday Bash" Project</a>
             </li>
 
             <li className="link">
-            <a className="atag" href="https://docs.google.com/presentation/d/1YN1dKxGTsNWpa24_HdFn7iy1BhZx8Ref-P-BbM_Nm-k/edit?usp=sharing">Birthday Bash Presentation</a>
+            <a className="atag" href="https://docs.google.com/presentation/d/1YN1dKxGTsNWpa24_HdFn7iy1BhZx8Ref-P-BbM_Nm-k/edit?usp=sharing">"Birthday Bash" Presentation</a>
             </li>
 
             <li className="link">
-            <a className="atag" href="https://github.com/HGreedo/momentous">Momentous Project</a>
+            <a className="atag" href="https://github.com/HGreedo/momentous">"Momentous" Project</a>
             </li>
 
             <li className="link">
-            <a className="atag" href="https://docs.google.com/presentation/d/1mUAch6rXh79rro9NWX30VUXOumrSwu9DyHqwXFJlAQQ/edit#slide=id.p">Momentous Presentation</a>
+            <a className="atag" href="https://docs.google.com/presentation/d/1mUAch6rXh79rro9NWX30VUXOumrSwu9DyHqwXFJlAQQ/edit#slide=id.p">"Momentous" Presentation</a>
             </li>
 
             <li className="link">
-            <a className="atag" href="https://github.com/HGreedo?tab=repositories">Homework Assignment Repositories</a>
+            <a className="atag" href="https://github.com/HGreedo?tab=repositories">Assignment Repositories</a>
             </li>
             
             <li className="link">
-            <a className="atag" href="https://www.youtube.com/channel/UCvZV5eUFMovWcflaRRrIMCA/videos">University of Arizona Journalism Video Work</a>
+            <a className="atag" href="https://www.youtube.com/channel/UCvZV5eUFMovWcflaRRrIMCA/videos">Univ. of Arizona Journalism Video Work</a>
             </li>
 
             <li className="link">
