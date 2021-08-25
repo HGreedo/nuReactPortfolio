@@ -36,19 +36,20 @@ const ThirdPtyLinks = () => (
 
             <a  className="atag" href="https://indearizona.com/tucson-tattoo-culture-oasis-for-art-expression-in-southwest/">Tattoo Tourism Story - "El Inde Arizona"</a>
 
+            <a  className="atag" href="https://drive.google.com/drive/folders/1MJ1o6QDDYol_Is0w0sJWochrHfGHdWgF?usp=sharing">Google and 3rd Party Certifications - Google Drive</a>
             </div>
 
             
 
 <div className="container">  <h3>Ida Andersson Shop Details</h3>
 
-            <a className="atag" href="https://www.idaanderssonshop.com/">Ida Andersson Shop</a>
+            <a className="atag" href="https://www.idaanderssonshop.com/">Ida Andersson Shop Official Website</a>
 
             <a className="atag"  href="mailto:idaanderssonshop@gmai.com">idaanderssonshop@gmail.com</a>
             
             <a className="atag" href="https://www.etsy.com/shop/IdaAnderssonShop">Reviews on Etsy</a>
 
-            
+            <a className="atag" href="https://www.instagram.com/idaanderssonshop/">Follow Us on Instagram! </a>
             </div>
 
 
