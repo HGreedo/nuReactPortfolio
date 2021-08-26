@@ -15,8 +15,10 @@ const IdaShop = () => (
             Together, we produced and sold over 400 uniquely hand-made items in our first 12-months. We also sell MOQ's to boutiques in the Portland Area.
             <br/>
             <br/>
-            Ida has oever 17 years of sewing experience oversees apparel design and construction, while my role is heavily involved with web development, SEO/SEM/Email Marketing, eCommerce, content creation, Customer Service, Shipping and Order Management, and networking. 
+            Ida has over 17 years of sewing experience and oversees apparel design and construction, while my role covers: web development, SEO/SEM/Email Marketing, eCommerce, content creation, Customer Service, Shipping and Order Management, and networking. 
             <br/>
+            <br/>
+            My mission was to create a sort 'aura' around what Ida Andersson could be. Kind of like Coco Chanel or Kate Spade. Even though they're real people, their brands use their names to almost mystify and create this aura around them.
             <br/>
             I also cut all our fabric by hand and I'm not afraid to get my hands dirty. 
             <br/>
