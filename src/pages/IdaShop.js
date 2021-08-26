@@ -9,22 +9,22 @@ const IdaShop = () => (
             
             <p className="idashop-bio">
             Ida Andersson LLC is a hand-made, Swedish-American apparel brand that specializes in bespoke, custom-made "Cozy Wear" for women. 
-            The brand was created as an established business in April 2020 by Ida and Harrison. 
+            The brand was created as an established LLC business in April 2020 by Ida and Harrison. 
             <br/>
             <br/>
             Together, we produced and sold over 400 uniquely hand-made items in our first 12-months. We also sell MOQ's to boutiques in the Portland Area.
             <br/>
             <br/>
-            Ida has oever 17 years of sewing experience oversees apparel design and construction, while my role is heavily involved with web development, eCommerce, content creation, marketing, and networking. 
+            Ida has oever 17 years of sewing experience oversees apparel design and construction, while my role is heavily involved with web development, SEO/SEM/Email Marketing, eCommerce, content creation, Customer Service, Shipping and Order Management, and networking. 
             <br/>
             <br/>
-            I also do all the fabric cutting by hand and I'm not afraid to get my hands dirty. To be able to keep up with demand, we figured out how build an efficient Order Management System that was profitable and sustainable for our business. 
+            I also cut all our fabric by hand and I'm not afraid to get my hands dirty. 
             <br/>
             <br/>
-            This has been the most fun and incredibly rewarding experience in so many aspects. It was the catalyst for why I wanted to pursue studying web development.
+            This has been the most fun and incredibly rewarding experience in so many aspects. It was also the catalyst for why I wanted to pursue studying web development!
             <br/>
             <br />
-            And, for Ida and I, Ida Andersson LLC was a 'proving ground,' and freedom to see what we could build together when we combine our skils and creativity!
+            For Ida and I, Ida Andersson LLC was a 'proving ground,' and freedom to go 'all-in' and see what we could build together when we combine all our skils and creativity!
             </p>
 
             <ul className="takeaways"> 
