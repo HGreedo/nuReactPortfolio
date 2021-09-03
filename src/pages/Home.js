@@ -5,7 +5,7 @@ function Home() {
         <div className="App">
         <header className="App-header">
           <h1>Welcome to Harry Reed's Portfolio!</h1>
-          <h5 className="home-blurb">I want to use my skills as a brand and digital content producer to foster collaboration and elevate how Brands connect with consumers.
+          <h5 className="home-blurb">I want to use my skills as a full stack web developer, and brand and digital content producer to foster collaboration and elevate how Brands connect with consumers and drive revenue.
               <br/>
               <br/>
 <br/>
